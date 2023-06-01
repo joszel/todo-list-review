@@ -21,8 +21,9 @@
         "no-unused-expressions": "off",
         "no-sequences": "off",
         "no-func-assign": "off",
-        "no-class-assign": "off"
-      
+        "no-class-assign": "off",
+        "import/no-mutable-exports": "off",
+        "no-unused-vars" : "off"
     },
     "ignorePatterns": [
       "dist/",

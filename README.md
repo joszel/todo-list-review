@@ -3,11 +3,8 @@
 
 <a name="readme-top"></a>
 
-
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  
+ 
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -189,7 +186,7 @@ I would like to thank to my coding partners.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
